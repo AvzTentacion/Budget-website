@@ -1,0 +1,31 @@
+body{
+    font-family: 'Muli', sans-serif;
+}
+
+
+.container{
+    margin: auto;
+    padding: 10px; 
+}
+
+.main{
+    width: 70%;
+    margin-top: 10px;
+    border: 3px #2bff00 solid;
+    padding: 10px;
+    background: #c7e9c1;
+}
+
+#payment{
+    width: 100%;
+    margin-top: 5px;
+}
+
+#uk{
+    padding: 5px;
+}
+
+span{
+    font-size: 20px;
+    padding-bottom: 10px;
+}
